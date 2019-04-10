@@ -1,0 +1,6 @@
+[0806/140727:ERROR:cache_util_win.cc(48)] Unable to move the cache: 0
+[0806/140727:ERROR:backend_impl.cc(146)] Unable to move cache folder
+[0806/140727:ERROR:backend_impl.cc(287)] Unable to create cache
+[0806/153915:ERROR:cache_util_win.cc(48)] Unable to move the cache: 0
+[0806/153915:ERROR:backend_impl.cc(146)] Unable to move cache folder
+[0806/153915:ERROR:backend_impl.cc(287)] Unable to create cache
